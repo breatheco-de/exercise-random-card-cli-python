@@ -1,6 +1,6 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  Random Card Dealer CLI
+# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  Random Card Dealer CLI Python
 
-![Random Card CLI](https://github.com/breatheco-de/exercise-random-card-cli-python/blob/master/preview.gif?raw=true)
+![Random Card CLI Python](https://github.com/breatheco-de/exercise-random-card-cli-python/blob/master/preview.gif?raw=true)
 
 In this project you will learn how to use coding logic to generate random cards.
 
