@@ -4,7 +4,9 @@
 	"status": "published",
 	"solution": "https://github.com/breatheco-de/random-card-cli-python/tree/solution",
 	"duration" : 4,
+    "difficulty": "beginner",
 	"description" : "Use your Python skills to randomly draw a poker card on every time the algorithm runs",
+    "technologies": ["python", "terminal", "command-line"],
 	"talents": [
 		{ "badge": "identator", "points": 6 },
 		{ "badge": "functional-developer", "points": 6 }
