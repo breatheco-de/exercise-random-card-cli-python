@@ -3,6 +3,7 @@
 	"slug" : "random-card-cli-python",
 	"status": "published",
 	"solution": "https://github.com/breatheco-de/exercise-random-card-cli-python/tree/solution",
+	"preview": "https://raw.githubusercontent.com/breatheco-de/exercise-random-card-cli-python/master/preview.gif",
 	"duration" : 4,
     "difficulty": "beginner",
 	"description" : "Use your Python skills to randomly draw a poker card on every time the algorithm runs",
