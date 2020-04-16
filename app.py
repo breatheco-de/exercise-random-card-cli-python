@@ -1,6 +1,9 @@
 import random
+suites = ['♡', '♢', '♤', '♧']
+numbers = list(range(1,14))
 
 def get_random_card():
-    pass
-    
+    # your code here
+    return "3♤"
+
 print(get_random_card())
