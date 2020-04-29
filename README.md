@@ -6,7 +6,7 @@ In this project you will learn how to use coding logic to generate random cards.
 
 ## Instructions
 
-Create and algorithm that randomly builds a random card every time it runs:
+Create an algorithm that randomly builds a random card every time it runs:
 
 1. Start by cloning this repo: 
 ```
