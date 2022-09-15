@@ -11,5 +11,7 @@
 	"talents": [
 		{ "badge": "identator", "points": 6 },
 		{ "badge": "functional-developer", "points": 6 }
-	]
+	],
+    "autoPlay": false,
+    "projectType": "project"
 }
